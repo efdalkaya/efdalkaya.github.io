@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Efdal KAYA"
+  site-url: "https://efdalkaya.github.io/"
+  bread-crumbs: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    tools:
+      - icon: github
+        href: https://github.com/efdalkaya
+  page-footer: 
+      left: "Dr. Efdal KAYA"
+      right: "Copyrights@2024"
+      background: "#593196"
+        
+format:
+  html:
+    theme: pulse
+    css: styles.css
+    toc: true
+
+editor: source
+

@@ -1,0 +1,29 @@
+---
+title: "Dr. Efdal KAYA"
+about:
+  template: trestles
+  image: ek.jpg
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/efdalkaya/
+    - icon: youtube
+      text: Youtube
+      href: https://www.youtube.com/channel/UCTFfDnudw9w7r80b_4gfPNg
+    - icon: github
+      text: Github
+      href: https://github.com/efdalkaya
+---
+
+Welcome to my website!
+
+I earned my BSc and MSc degrees in Geomatic Engineering from Aksaray University and my PhD in Geodesy and Geoinformation Engineering from Kocaeli University, all from Türkiye
+
+Currently, I am working as a Lecturer for the Mapping and Cadastre Programme in Iskenderun Technical University.
+
+My main research interests include Urban Climate, Remote Sensing, Photogrammetry, Applied Machine Learning and Deep Learning algorithms.
+
+## Education
+
+University of Kocaeli, Kocaeli | Turkey
+PhD in Geodesy and Geoinformation Engineering | Sept 2017 - January 2023
