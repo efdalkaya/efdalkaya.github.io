@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/efdalkaya
+    - icon: envelope
+      text: Email
+      href: "mailto:mail.kayaefdal@gmail.com" 
 ---
 
 Welcome to my website!

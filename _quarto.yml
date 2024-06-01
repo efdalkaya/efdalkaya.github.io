@@ -23,9 +23,12 @@ website:
     tools:
       - icon: github
         href: https://github.com/efdalkaya
+      - icon: envelope
+        text: Email
+        href: "mailto:mail.kayaefdal@gmail.com" 
   page-footer: 
-      left: "Dr. Efdal KAYA"
-      right: "Copyrights@2024"
+      left: "Dr. Efdal KAYA - Copyrights@2024"
+      right: " "
       background: "#593196"
         
 format:

@@ -1,3 +1,34 @@
 ---
 title: "Projects"
+format: html
+engine: knitr
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+1. **TÜBİTAK 1002/A**, Ticari Aktif Karbon Kullanılarak Boya Gideriminin Makine Öğrenmesi Temelli Analizi ile Açık Kaynak Kodlu Web Tabanlı İnteraktif Bir Uygulama Geliştirilmesi, *Araştırmacı*
+
+2. **TÜBİTAK 1002/A**, ICESat-2/Atlas ve Havasal Lidar Verilerinden Bina Yüksekliklerinin Hesaplanmasında Makine Öğrenmesi Algoritmalarının Performans Analizi, *Araştırmacı*
+
+3. **TÜBİTAK 1002/C**, 6 Şubat 2023 Kahramanmaraş (Pazarcık 7.7 Mw. ve Elbistan 7.6 Mw.) Depremlerinde Adana İlinde Hasarlı Yapıların Uzaktan Algılama ve Açık Kaynak Kodlu CBS Kullanılarak Tespit Edilmesi, *Araştırmacı*
+
+4. **KOÜ BAP**, Biyoklimatik Konfor Alanlarının Yapay Zekâ ile Modellenmesi, *Araştırmacı*
+
+5. **Kültür ve Turizm Bakanlığı**, Burdur İli, Gölhisar İlçesi, Uylupınar Yerleşmesinde (Erken Kibyra) ve Altınyayla, Çavdır, Karamanlı, Tefenni, Kemer İlçelerinde, Arkeolojik Yüzey Araştırmalası Projesi, *Araştırmacı*
+
+6. **TÜBİTAK 1001**, Çok Bandlı Insar ve GNSS Tekniği ile Doğu Marmara (İzmit Körfezi) Düşey Yönlü Yer Değiştirmelerin İzlenmesi, Zemin Çökmeleri ile Bina Yoğunluğu ve Sıvılaşma İlişkisinin Araştırılması, *Bursiyer*
+
+7. **TÜBİTAK 1002/A**, İnsansız Hava Aracı (İHA)'ndan Elde Edilen Topografik Veriler ile Adam Kayaları ve Çevresinin Kaya Düşme Potansiyelinin Değerlendirilmesi, *Bursiyer*
+
+8. **ASÜ BAP**, Mobil ve Yersel Lidar Sistemlerinin Kaya Düşme Riski Olan Alanlarda Kullanımı ve Doğruluklarının Karşılaştırılması: Yaprakhisar, Aksaray İli Örneği, *Araştırmacı*
+
+9. **ASÜ BAP**, İnsansız Hava Taşıtı (UAV) ve Yersel Lazer Veri Entegrasyonu ile Somuncu Baba Türbesi ve Külliyesinin 3B Modellenmesi ve Animasyonu, *Araştırmacı*
+
+10. **TÜBİTAK 1002**, Sümela Manastırı ve Civarının Kaya Düşmeleri Riskinin Belirlenmesi, *Bursiyer*
+
+11. **TÜBİTAK 2209/A**, Konya İli Sınırları İçerisinde Uzaktan Algılama Yöntemleriyle Rekolte Tahminin Gerçekleştirilmesi, *Yürütücü*

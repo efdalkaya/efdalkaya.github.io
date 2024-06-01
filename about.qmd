@@ -1,3 +1,41 @@
 ---
 title: "About"
+format: html
+engine: knitr
 ---
+
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![My Family](ek.jpg)
+:::
+
+::: {.g-col-8}
+
+**Dr. Efdal KAYA**, Received B.Sc degree in Geomatics Engineering from Aksaray University, Aksaray,Turkey in 2015 and received the M.S. degree in Geomatics Engineering from Aksaray University, Aksaray, Turkey in 2017. He is completed Ph.D at Kocaeli University, 2023. His research interests Spatial Data Analysis, Spatial Programming, UAV and LiDAR.
+
+
+**RESEARCH INTERESTS:**
+
+My research, as an interdisciplinary study, endeavors to combine advanced remote sensing with machine learning techniques for laser scanning applications. In particular, it involves:
+ 
+-	UAV-based imaging platform developments for automatic building extraction
+
+-	Calculating biomass from different laser scanning platform (Terrestrial lidar, Mobile lidar, Airborne lidar)
+
+-	Developing software for crop growth monitoring using R
+
+-	Developing WEB-based application using R programming for yield prediction 
+
+
+:::
+
+:::
